@@ -229,6 +229,7 @@ body {
 }
 
 .attribution {
+  margin: auto 0 2rem;
   font-size: 11px;
   text-align: center;
 }

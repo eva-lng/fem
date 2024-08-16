@@ -7,7 +7,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,10 +25,6 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2024-08-13 at 15 35 10](https://github.com/user-attachments/assets/9c22135d-93f5-4c68-b671-67f3e443f235)
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 

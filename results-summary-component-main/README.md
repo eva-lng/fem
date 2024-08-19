@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2024-08-13 at 15 35 10](https://github.com/user-attachments/assets/9c22135d-93f5-4c68-b671-67f3e443f235)
 
 ### Links
 

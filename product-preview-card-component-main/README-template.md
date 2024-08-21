@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-
-
 ### The challenge
 
 Users should be able to:
@@ -26,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2024-08-19 at 18 59 01](https://github.com/user-attachments/assets/09bab8ab-2fd0-4dcc-8759-4e38c17ce3d7)
 
 ## My process
 
